@@ -57,8 +57,8 @@ My focus lies in:
 
 ## 📂 Selected Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgaPavan0923&repo=News-Summarization&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgaPavan0923&repo=Machine-Learning-Projects&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgaPavan0923&repo=Machine-Learning&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgaPavan0923&repo=AI-Projects&theme=tokyonight" />
 </p>
 
 <p align="center">
