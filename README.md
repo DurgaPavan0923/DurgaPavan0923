@@ -62,21 +62,16 @@ My repositories contain work on **deep learning models, recommendation systems, 
 
 ---
 
-## 📈 GitHub Analytics
+## 🐍 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurgaPavan0923&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaPavan0923&theme=tokyonight" height="160"/>
+  <img src="https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPavan0923&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
 ![snake animation](https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg)
 
+---
 
 🎯 **Actively exploring opportunities in AI/ML research, data science, and intelligent systems**  
 ⭐ *If you find my work useful, consider starring my repositories!*
