@@ -56,14 +56,9 @@ My focus lies in:
 ---
 
 ## 📂 Selected Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgaPavan0923&repo=News-Summarization&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgaPavan0923&repo=Machine-Learning-Projects&theme=tokyonight" />
-</p>
+My repositories contain work on **deep learning models, recommendation systems, and machine learning pipelines**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgaPavan0923&repo=Recommendation-System&theme=tokyonight" />
-</p>
+🔗 https://github.com/DurgaPavan0923?tab=repositories
 
 ---
 
@@ -80,18 +75,8 @@ My focus lies in:
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/DurgaPavan0923/DurgaPavan0923/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg)
 
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavan-kumar-432248298">
-    <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Kumar-blue?logo=linkedin"/>
-  </a>
-</p>
-
----
 
 🎯 **Actively exploring opportunities in AI/ML research, data science, and intelligent systems**  
 ⭐ *If you find my work useful, consider starring my repositories!*
