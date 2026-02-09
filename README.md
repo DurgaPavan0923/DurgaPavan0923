@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋 I'm Pavan Kumar</h1>
-<h3 align="center">AI & Machine Learning Research Enthusiast | Computer Science Engineer</h3>
+<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
+<h3 align="center">
+AI & Machine Learning Enthusiast | CSE (AI & ML) Undergraduate | Research-Oriented Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Research+Enthusiast;Deep+Learning+Practitioner;Data-Driven+Problem+Solver;Always+Learning&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Enthusiast;Deep+Learning+Practitioner;Data-Driven+Problem+Solver;Research+Focused+Learner&center=true&width=620&height=45">
 </p>
 
 <p align="center">
@@ -12,63 +14,60 @@
 ---
 
 ## 🎓 About Me
-I am a **B.Tech Computer Science & Engineering (AI & ML)** student at **ITER, SOA University**, deeply interested in **Artificial Intelligence research, machine learning models, and data-driven systems**.
+I am a **B.Tech Computer Science & Engineering (AI & ML specialization)** student at **ITER, SOA University**, passionate about building **intelligent, data-driven systems** and exploring **AI research concepts with practical impact**.
 
-My focus lies in:
-- Designing **intelligent algorithms**
-- Exploring **deep learning architectures**
-- Applying AI to solve **real-world problems**
-- Bridging **research concepts with practical implementations**
+✨ **What drives me**
+- Designing intelligent algorithms & ML pipelines  
+- Exploring deep learning architectures & NLP models  
+- Applying AI to solve real-world problems  
+- Continuous learning through research & projects  
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research & Technical Interests
 - Machine Learning Algorithms  
-- Deep Learning (Seq2Seq, Neural Networks)  
-- Natural Language Processing  
+- Deep Learning (Neural Networks, Seq2Seq Models)  
+- Natural Language Processing (NLP)  
 - Recommendation Systems  
 - Data Science & Predictive Analytics  
 
 ---
 
 ## ⚙️ Technical Skills
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,html,css,js" />
 </p>
 
-- **Languages:** Python, Java, C, C++  
-- **AI/ML:** Machine Learning, Deep Learning, NLP  
+- **Programming:** Python, Java, C, C++  
+- **AI / ML:** Machine Learning, Deep Learning, NLP  
 - **Tools:** Git, GitHub, VS Code  
-- **Foundations:** Data Structures, Algorithms, Statistics  
+- **Core CS:** Data Structures, Algorithms, Statistics  
 
 ---
 
-## 🧪 Featured AI / ML Work
+## 🧪 Featured AI / ML Projects
 - 🧠 **News Summarization using Seq2Seq Models**  
-  → Abstractive summarization using deep learning techniques  
+  Abstractive text summarization using deep learning architectures  
 
 - 🎬 **Recommendation Systems**  
-  → Collaborative & content-based filtering approaches  
+  Collaborative & content-based filtering approaches  
 
-- 📊 **Machine Learning Projects**  
-  → Classification, prediction & analytics  
+- 📊 **Machine Learning Applications**  
+  Classification, prediction & analytics projects  
 
 ---
 
 ## 📂 Selected Repositories
-My repositories contain work on **deep learning models, recommendation systems, and machine learning pipelines**.
+My repositories showcase work on:
+- Deep learning models  
+- Recommendation systems  
+- Machine learning pipelines  
 
-🔗 https://github.com/DurgaPavan0923?tab=repositories
+🔗 **Explore:** https://github.com/DurgaPavan0923?tab=repositories  
 
 ---
 
-## 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg" />
-</p>
----
-
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Activity
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg"
@@ -78,5 +77,10 @@ My repositories contain work on **deep learning models, recommendation systems, 
 
 ---
 
-🎯 **Actively exploring opportunities in AI/ML research, data science, and intelligent systems**  
-⭐ *If you find my work useful, consider starring my repositories!*
+## 🎯 Career Focus
+- Actively exploring opportunities in:
+  - **AI / ML Research**
+  - **Data Science**
+  - **Intelligent Systems Development**
+
+⭐ *If you find my work interesting, consider starring ⭐ my repositories!*
