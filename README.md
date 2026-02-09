@@ -69,7 +69,12 @@ My repositories contain work on **deep learning models, recommendation systems, 
 ---
 
 ## 🐍 Contribution Snake
-![snake animation](https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
 
 ---
 
