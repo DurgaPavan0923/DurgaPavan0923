@@ -62,18 +62,18 @@ I enjoy transforming theoretical ML concepts into deployable systems through exp
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=sklearn" />
   </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=numpy" />
-  </a>
 </p>
 
 ### 📊 Data & Visualization
 <p align="center">
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=matplotlib" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
   </a>
 </p>
 
@@ -107,25 +107,71 @@ I enjoy transforming theoretical ML concepts into deployable systems through exp
 
 ## 🧪 Highlight Projects
 
-🧠 **News Summarization using Seq2Seq**  
-→ Abstractive deep learning-based text summarization  
+<table>
+<tr>
+<td width="50%">
 
-🎬 **Recommendation Systems**  
-→ Collaborative & content-based filtering  
+### 🧠 News Summarization using Seq2Seq  
+**Type:** Deep Learning | NLP  
+Built an abstractive text summarization system using encoder-decoder architecture to generate meaningful summaries from long-form content.
 
-📊 **Machine Learning Pipelines**  
-→ Classification, regression & predictive analytics  
+🔹 Seq2Seq Architecture  
+🔹 Text Preprocessing & Tokenization  
+🔹 Model Training & Evaluation  
 
-🔗 Explore all projects:  
-https://github.com/DurgaPavan0923?tab=repositories  
+</td>
+
+<td width="50%">
+
+### 🎬 Recommendation System  
+**Type:** Machine Learning  
+Designed collaborative and content-based recommendation models to personalize user suggestions.
+
+🔹 Similarity Metrics  
+🔹 User-Item Matrix  
+🔹 Model Optimization  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Machine Learning Pipeline  
+**Type:** Predictive Analytics  
+End-to-end ML pipeline covering preprocessing, feature engineering, model training, and evaluation.
+
+🔹 Classification & Regression  
+🔹 Data Cleaning  
+🔹 Performance Metrics  
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Research Exploration  
+**Type:** Experimental Systems  
+Exploring advanced neural architectures and intelligent system design concepts.
+
+🔹 Neural Networks  
+🔹 Model Experimentation  
+🔹 Research-driven Development  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DurgaPavan0923&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPavan0923&layout=compact&theme=radical&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DurgaPavan0923&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPavan0923&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaPavan0923&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -133,7 +179,14 @@ https://github.com/DurgaPavan0923?tab=repositories
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/DurgaPavan0923/DurgaPavan0923/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/DurgaPavan0923/DurgaPavan0923/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
