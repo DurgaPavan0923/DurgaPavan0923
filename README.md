@@ -166,11 +166,6 @@ Exploring advanced neural architectures and intelligent system design concepts.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DurgaPavan0923&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPavan0923&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaPavan0923&theme=github-dark-blue&hide_border=true" />
 </p>
 
