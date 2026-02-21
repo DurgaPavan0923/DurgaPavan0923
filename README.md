@@ -171,6 +171,14 @@ Exploring advanced neural architectures and intelligent system design concepts.
 
 ---
 
+## 🏆 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=DurgaPavan0923&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
 ## 📊 Development Activity
 
 <p align="center">
