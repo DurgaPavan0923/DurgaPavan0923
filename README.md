@@ -187,6 +187,11 @@ Exploring advanced neural architectures and intelligent system design concepts.
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DurgaPavan0923&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 🎯 Career Vision
 
 I am actively exploring opportunities in:
