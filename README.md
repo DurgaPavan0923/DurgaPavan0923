@@ -163,7 +163,7 @@ Exploring advanced neural architectures and intelligent system design concepts.
 
 ---
 
-## Snake Game Repo View 
+## 🐍 Snake Game Repo View 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
