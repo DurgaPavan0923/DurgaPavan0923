@@ -1,0 +1,56 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily at 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/snake.yml"]
+
+permissions: {}
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write       # only to push the `output` branch
+    steps:
+      # Docker variant: independent of GitHub's Node runtime. The svg-only variant
+      # (Platane/snk/svg-only@v3) is a Node 20 action; use it only if this step fails.
+      # For stricter supply-chain safety, pin to the commit SHA behind the tag:
+      #   git ls-remote https://github.com/Platane/snk refs/tags/v3
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Fix ownership (Docker actions write as root)
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
+      - name: Verify outputs exist
+        run: test -s dist/github-snake.svg && test -s dist/github-snake-dark.svg
+
+      - name: Publish to output branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          cd dist
+          git init --initial-branch=output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Generate snake animation"
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" output

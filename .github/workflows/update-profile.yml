@@ -1,0 +1,45 @@
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "23 3 * * *"   # daily at 03:23 UTC
+  workflow_dispatch:        # run once manually after setup
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_profile_assets.py"
+      - ".github/workflows/update-profile.yml"
+
+permissions: {}             # deny by default
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write       # commit refreshed SVGs to this repo
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate repos, stats and trophies SVGs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/generate_profile_assets.py
+
+      - name: Commit changes
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/repos.svg assets/stats.svg assets/trophies.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh profile assets"
+            git push
+          fi
